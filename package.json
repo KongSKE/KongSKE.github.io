@@ -5,6 +5,7 @@
   "homepage": "https://KongSKE.github.io/",
   "dependencies": {
     "antd": "^3.13.2",
+    "bootstrap": "^4.3.1",
     "react": "^16.8.2",
     "react-dom": "^16.8.2",
     "react-scripts": "2.1.5"
@@ -26,6 +27,6 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.1.1"
   }
 }
