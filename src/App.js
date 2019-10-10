@@ -9,7 +9,7 @@ class App extends Component {
       <div>
         <body bgcolor = "orange">
         <h1><center>Varit Assavavisidchai</center></h1>
-        <center>React motherfucker</center>
+        <center>React motherfucker kwai jack</center>
         <Header></Header>
         <Experience></Experience>
         <br></br><br></br>
